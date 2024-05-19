@@ -1,3 +1,4 @@
+<script>
 var name_id7354816 = "BEK Isroilov"; document.getElementById("name_id7354816").innerHTML = name_id7354816;
 var age_id7354816 = "Возраст: 30"; document.getElementById("age_id7354816").innerHTML = age_id7354816;
 var color_id7354816 = "Цвет волос: брюнет"; document.getElementById("color_id7354816").innerHTML = color_id7354816;
@@ -22,3 +23,4 @@ var name_id1340796 = "АРМАН КАЛАНТАРЯН"; document.getElementById(
 var age_id1340796 = "Возраст: 32"; document.getElementById("age_id1340796").innerHTML = age_id1340796;
 var color_id1340796 = "Цвет волос: брюнет"; document.getElementById("color_id1340796").innerHTML = color_id1340796;
 var body_id1340796 = "Телосложение: стройное"; document.getElementById("body_id1340796").innerHTML = body_id1340796;
+</script>
